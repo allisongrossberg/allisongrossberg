@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Allison
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allisongrossberg&repo=Data2REDCAP)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allisongrossberg&repo=COAST-report)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allisongrossberg&repo=COAST_image_processing)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **allisongrossberg/allisongrossberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
