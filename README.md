@@ -6,6 +6,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allisongrossberg&repo=COAST-report)](https://github.com/allisongrossberg/COAST-report)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allisongrossberg&repo=COAST_image_processing)](https://github.com/allisongrossberg/COAST_image_processing)
 
 
 <!--
