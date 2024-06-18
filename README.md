@@ -2,10 +2,6 @@
 
 I'm a neuroscientist at the Knoebel Institute for Healthy Aging.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allisongrossberg&repo=Data2REDCAP)](https://github.com/allisongrossberg/Data2REDCAP)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allisongrossberg&repo=COAST-report)](https://github.com/allisongrossberg/COAST-report)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allisongrossberg&repo=COAST_image_processing)](https://github.com/allisongrossberg/COAST_image_processing)
 
 Code for publications:
