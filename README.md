@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Allison
 
-I'm a neuroscientist at the Knoebel Institute for Healthy Aging.
+I'm a computational biologist at the Wyss Institute at Harvard University (https://wyss.harvard.edu/team/advanced-technology-team/allison-grossberg/).
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=allisongrossberg&repo=Data2REDCAP)](https://github.com/allisongrossberg/Data2REDCAP)
 
